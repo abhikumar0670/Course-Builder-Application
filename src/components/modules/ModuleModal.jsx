@@ -33,7 +33,7 @@ const ModuleModal = ({ isOpen, onClose, onSave, module = null }) => {
                 type="text"
                 value={moduleName}
                 onChange={e => setModuleName(e.target.value)}
-                placeholder="Introduction to Trigonometry"
+                placeholder="Course Name"
                 className="form-input"
                 autoFocus
               />
