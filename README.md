@@ -2,7 +2,13 @@
 
 A modern, interactive React.js application that allows educators and content creators to organize and manage course materials. This feature-rich application provides an intuitive interface for building structured courses with modules, resources, and interactive elements.
 
-![Course Builder Screenshot](screenshot.png)
+![Course Builder Screenshot](src/assets/screenshot.png)
+
+## 🎥 Demo Video
+
+[▶️ Watch Demo Video](https://drive.google.com/file/d/1vbLE0gbuBXuwIW-KMRHPiikF2OMLvZNF/view?usp=sharing)
+
+
 
 ## 🎯 Key Features
 
