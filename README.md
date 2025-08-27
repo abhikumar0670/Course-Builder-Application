@@ -49,15 +49,6 @@ A modern, interactive React.js application that allows educators and content cre
   - ✅ Smooth animations and transitions
   - ✅ Empty states with clear call-to-action
 
-## 🛠 Technology Stack
-
-- **Frontend Framework**: React 19.1.0
-- **Build Tool**: Vite 6.3.5
-- **Drag & Drop**: react-dnd 16.0.1
-- **Icons**: react-icons 5.0.1
-- **Styling**: Pure CSS with modern features
-- **Code Quality**: ESLint + Prettier
-
 ## 🚀 Getting Started
 
 ### Prerequisites
